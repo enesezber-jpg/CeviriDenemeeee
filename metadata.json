@@ -1,0 +1,6 @@
+{
+  "name": "Savunma Sanayii Teknik Çeviri Motoru",
+  "description": "Askeri ve savunma sanayii terminolojisinde sıfır hata toleranslı, Excel terim verisi ve N-gram öncelikli profesyonel teknik çeviri platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
